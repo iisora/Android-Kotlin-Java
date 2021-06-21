@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentSample</string>
+    <string name="tv_thx_title">Order is Complete!!!</string>
+    <string name="tv_thx_desc">We have accepted orders for the following menus. Thank you for your order.</string>
+    <string name="bt_thx_back">back to list</string>
+</resources>
