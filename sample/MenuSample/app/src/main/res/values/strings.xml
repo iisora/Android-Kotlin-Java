@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuSample</string>
+    <string name="tv_menu_unit">円</string>
+    <string name="menu_list_options_dessert">デザート</string>
+    <string name="menu_list_options_beef_bowl">牛丼</string>
+    <string name="menu_list_context_desc">メニューについて</string>
+    <string name="menu_list_context_order">メニューを注文する</string>
+    <string name="menu_list_context_header">操作をお選びください。</string>
+    <string name="tv_thx_title">注文完了しました。</string>
+    <string name="tv_thx_desc">ご注文ありがとうございます。\nすぐにお持ちいたします。\nお水はセルフサービスになります。</string>
+</resources>
